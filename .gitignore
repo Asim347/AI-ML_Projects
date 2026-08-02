@@ -1,0 +1,37 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset folders
+dataset/
+datasets/
+data/
+
+# Large model files
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.onnx
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
